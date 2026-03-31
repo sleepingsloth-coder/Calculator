@@ -1,12 +1,3 @@
-/*
-File: Math from TFG
-Author: 林早苗 Sanae
-Date: 2026/3/18
-Purpose:
-這是一個計算北一女數學補充教材的計算機，內含數學108課綱高一下的內容，包括數列級數，排列組合和三角比。(也可以拿來算別的東西啦。)
-CC: BY, NC, ND
-*/
-
 #include <cmath>
 #include <iostream>
 #include <limits>
