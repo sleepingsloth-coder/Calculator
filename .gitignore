@@ -1,0 +1,8 @@
+.vscode/
+*.exe
+*.obj
+*.dll
+.DS_Store
+*.out
+*.log
+*.tmp
