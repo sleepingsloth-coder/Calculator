@@ -2,3 +2,4 @@
 ## 作品簡介
 這是一個計算北一女數學補充教材的計算機，內含數學108課綱高一下的內容，包括數列級數，排列組合和三角比。(也可以拿來算別的東西啦。)
 ## 功能
+![image](https://github.com/sleepingsloth-coder/Calculator/blob/main/architecture%20diagram.png)
